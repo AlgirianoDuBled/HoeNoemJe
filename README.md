@@ -1,3 +1,10 @@
 # HoeNoemJe
-Schrijf gewoon je naam op en het programma raad hoe oud je bent.
-usage: python hoenoemje.py 
+
+git clone 
+https://github.com/AlgirianoDuBled/HoeNoemJe.git
+
+python hoenoemje.py
+
+vul je naam in en programma raad hoe oud je bent.
+
+created by Algiriano Du Bled.
